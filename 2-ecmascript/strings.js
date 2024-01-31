@@ -39,4 +39,3 @@ function printForAddressbook2(user) {
 
 printForAddressbook2(user1);
 printForAddressbook2(user2);
-
